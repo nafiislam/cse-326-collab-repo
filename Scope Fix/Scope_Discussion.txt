@@ -1,0 +1,76 @@
+module:
+1. (Butcher to Consumer) -> Primary Meat Processing(buying and selling)
+
+2. (Butcher to Tannery&Horn factory)-> Unprocessed Tanner & horns and khur Processing(buying and selling)
+
+3. (Farmer to Butcher or Farmer to Consumer) -> Whole goru Processing(buying and selling)
+
+4. Notification setting for regular medicine taking
+
+5. Vet service providing, prescribe medicine (Vet user)
+
+6. timeline, bookkeeping, profile maintenance
+
+7. Qualitiy checking, location verifiying(Agent user)
+
+Assignment:
+1-> sobaha
+2-> suvro
+3-> vai
+4,5-> nahin
+6,7->ruhan
+
+Questions and answers:
+Why use Moo-market? -> 
+
+Ans: 
+
+For farmers :  
+
++ individual cow wise tracking profile; easier management :- history tracking(timeline) 
+
++ easier communication to all type of customers 
+
++ globally spread about business 
+
++ notify about each cow 🐄🐮 
+
++ syndicate X 
+
+For butchers, tannery, horn: 
+
++ quality wala mangsho pabe  
+
++ desher moddhe 🙂 connect howar karone supply paoa jaite pare :3 
+
++ price niye pera nai 🙂 farmer ra iccha moto price baraite parbena :3 
+
+For Consumers: 
+
++ home delivery 
+
++ jayga specific mangsho ordering  :3 
+
++ Qurbani r goru related pera kome gelo :") 
+
++ syndicate dhongsho 🙂  
+
++ MEGA OFFER 🙂 onekgula 🐄 eksathe kinbe 
+
+Vets why? 
+
++ customer er sathe connectivity barbe :3 
+
++ employment barbe(**) 
+
+ 
+
+Verification of cow advertisement?  
+
+-> Quality Checking : Agent team and Vet team 
+
+AGENT TEAM: Location verify and quality checking (meat, goru/mohish kina whatever) 
+
+VET TEAM: profile update(regular checkup), medicine  
+
+Prescribe medicine 🙂
